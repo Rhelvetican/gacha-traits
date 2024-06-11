@@ -1,0 +1,10 @@
+[package]
+name = "gacha-traits"
+authors = ["Rhelv <bionicvnb@gmail.com>"]
+version = "0.1.0"
+description = "A library with utilities traits for making gacha emulators."
+keywords = ["gacha", "random"]
+edition = "2021"
+
+[dependencies]
+anyhow = "1"

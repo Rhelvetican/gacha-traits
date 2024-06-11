@@ -3,6 +3,9 @@ name = "gacha-traits"
 authors = ["Rhelv <bionicvnb@gmail.com>"]
 version = "0.1.0"
 description = "A library with utilities traits for making gacha emulators."
+repository = "https://github.com/Rhelvetican/gacha-traits"
+homepage = "https://github.com/Rhelvetican/gacha-traits"
+license = "MIT"
 keywords = ["gacha", "random"]
 edition = "2021"
 
